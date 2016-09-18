@@ -1,0 +1,4 @@
+C:\Users\Gebruiker\Documents\School\Jaar 2\Prog5\Telephonebook\Model\bin\Debug\Model.dll
+C:\Users\Gebruiker\Documents\School\Jaar 2\Prog5\Telephonebook\Model\bin\Debug\Model.pdb
+C:\Users\Gebruiker\Documents\School\Jaar 2\Prog5\Telephonebook\Model\obj\Debug\Model.dll
+C:\Users\Gebruiker\Documents\School\Jaar 2\Prog5\Telephonebook\Model\obj\Debug\Model.pdb

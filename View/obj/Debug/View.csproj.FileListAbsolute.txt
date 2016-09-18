@@ -1,0 +1,7 @@
+C:\Users\Gebruiker\Documents\School\Jaar 2\Prog5\Telephonebook\View\bin\Debug\View.dll
+C:\Users\Gebruiker\Documents\School\Jaar 2\Prog5\Telephonebook\View\bin\Debug\View.pdb
+C:\Users\Gebruiker\Documents\School\Jaar 2\Prog5\Telephonebook\View\bin\Debug\Model.dll
+C:\Users\Gebruiker\Documents\School\Jaar 2\Prog5\Telephonebook\View\bin\Debug\Model.pdb
+C:\Users\Gebruiker\Documents\School\Jaar 2\Prog5\Telephonebook\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\Gebruiker\Documents\School\Jaar 2\Prog5\Telephonebook\View\obj\Debug\View.dll
+C:\Users\Gebruiker\Documents\School\Jaar 2\Prog5\Telephonebook\View\obj\Debug\View.pdb

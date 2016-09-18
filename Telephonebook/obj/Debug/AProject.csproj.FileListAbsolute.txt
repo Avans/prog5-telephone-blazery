@@ -1,0 +1,10 @@
+C:\Users\Gebruiker\Documents\School\Jaar 2\Prog5\Telephonebook\Telephonebook\bin\Debug\Telephonebook.exe.config
+C:\Users\Gebruiker\Documents\School\Jaar 2\Prog5\Telephonebook\Telephonebook\bin\Debug\Telephonebook.exe
+C:\Users\Gebruiker\Documents\School\Jaar 2\Prog5\Telephonebook\Telephonebook\bin\Debug\Telephonebook.pdb
+C:\Users\Gebruiker\Documents\School\Jaar 2\Prog5\Telephonebook\Telephonebook\bin\Debug\Model.dll
+C:\Users\Gebruiker\Documents\School\Jaar 2\Prog5\Telephonebook\Telephonebook\bin\Debug\View.dll
+C:\Users\Gebruiker\Documents\School\Jaar 2\Prog5\Telephonebook\Telephonebook\bin\Debug\Model.pdb
+C:\Users\Gebruiker\Documents\School\Jaar 2\Prog5\Telephonebook\Telephonebook\bin\Debug\View.pdb
+C:\Users\Gebruiker\Documents\School\Jaar 2\Prog5\Telephonebook\Telephonebook\obj\Debug\AProject.csprojResolveAssemblyReference.cache
+C:\Users\Gebruiker\Documents\School\Jaar 2\Prog5\Telephonebook\Telephonebook\obj\Debug\Telephonebook.exe
+C:\Users\Gebruiker\Documents\School\Jaar 2\Prog5\Telephonebook\Telephonebook\obj\Debug\Telephonebook.pdb
